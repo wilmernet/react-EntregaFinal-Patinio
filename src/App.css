@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #F7F9FC;
+}
+
+.Cards-List {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+}
+.Cards-List-Grilla {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+}
+
+.Cards-List-Lista {
+  display: grid;
+  grid-template-columns: 1fr ;
+}
+
+.Cards-List-Individual {
+  display: grid;
+  grid-template-columns: 1fr ;
+}

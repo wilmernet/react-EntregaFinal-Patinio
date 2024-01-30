@@ -1,0 +1,10 @@
+.ViewItems{
+    display: flex;
+    gap: 30px;
+    padding-top: 8px;
+}
+
+
+
+/* sx={{ color: "white", marginLeft: "40px", marginRight: "10px"}} */
+

@@ -1,0 +1,36 @@
+.CategoryButton #basic-button{
+    border: solid #333;
+    color:#fff;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 15px #333;  
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+}
+
+.CategoryButton #basic-button:hover{
+    /* box-shadow: 1px 1px 20px wheat;   */
+    color: black;
+    border: solid white; 
+    filter: drop-shadow(0 0 2em wheat);
+}
+
+/* .button{
+    border: solid #333;
+    color:#fff;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 15px #333;  
+    text-decoration: none;
+}
+
+.button:hover{
+    
+    background-color: white;
+    color: black;
+    border: solid white; 
+    filter: drop-shadow(0 0 2em wheat);
+} */
